@@ -3,7 +3,7 @@
 A Firefox add-on that allows users to scroll websites by moving the mouse, while holding the CTRL key.
 
 This add-on allows you not only to completely substitute the use of the mouse wheel, but also to be faster. <br>
-It also complements nicely the built-in `CTRL + LeftMouseClick` function, which opens a new tab. 
+It also complements nicely the built-in `CTRL + LeftMouseClick` function, which opens a new tab for the clicked link. 
 
 Incoming features: <br>
 - Smoother scrolling <br>
