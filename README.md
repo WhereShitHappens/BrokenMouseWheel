@@ -4,7 +4,6 @@ Firefox extension that allows users to scroll websites by holding the CTRL key.
 
 Incoming features: <br>
 - Smoother scrolling <br>
-- Open new tab by clicking a link while holding CTRL <br>
 - Activate/Deactivate button
 
 ## How to install from .xpi
