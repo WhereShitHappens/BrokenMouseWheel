@@ -1,5 +1,5 @@
 # BMW - Broken Mouse Wheel
-[Download Firefox Add-on](https://github.com/user/repo/blob/branch/other_file.md)
+[Download Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/broken-mouse-wheel/?src=search)
 ### Current Version: v0.0.2
 A Firefox add-on that allows users to scroll websites by moving the mouse, while holding the CTRL key.
 
